@@ -76,7 +76,7 @@
     "on-intersect": "^2.0.0",
     "shallow-clone": "^3.0.1",
     "validate-formdata": "^2.1.0",
-    "validator": "^12.0.0",
+    "validator": "^13.7.0",
     "web-animations-js": "^2.3.2",
     "zxcvbn-async": "0.0.6"
   },
